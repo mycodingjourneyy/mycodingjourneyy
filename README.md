@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Cristian Coroian
+- 💻 I work as a PHP programmer
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Laravel projects
+- 📫 How to reach me: mycodingjourneyy@gmail.com
